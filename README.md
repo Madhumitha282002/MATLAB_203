@@ -1,6 +1,6 @@
 # MATLAB_203: Automatic Video Object Segmentation Framework
 
-**MATLAB_203** is a comprehensive solution for automatic video object segmentation, built for seamless integration with MATLAB’s Video Labeler App. It incorporates multiple advanced techniques—including optical flow, adaptive modeling, superpixels, and optional deep learning—to deliver accurate and efficient video segmentation across a wide range of object categories.
+**MATLAB_203** is a comprehensive solution for automatic video object segmentation, built for seamless integration with MATLAB’s Video Labeler App. It incorporates multiple advanced techniques including optical flow, adaptive modeling, superpixels, and optional deep learning to deliver accurate and efficient video segmentation across a wide range of object categories.
 
 ---
 

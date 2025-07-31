@@ -315,9 +315,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, support, or collaboration opportunities:
 
-- **Email**: your.email@institution.edu
-- **GitHub Issues**: [Project Issues](https://github.com/your-repo/advanced-video-segmentation/issues)
-- **Documentation**: [Wiki](https://github.com/your-repo/advanced-video-segmentation/wiki)
+- **Email**: mkatam@asu.edu
+- **GitHub Issues**: [Project Issues](https://github.com/Madhumitha282002/advanced-video-segmentation/issues)
+
 
 ---
 

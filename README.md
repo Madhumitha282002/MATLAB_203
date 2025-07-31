@@ -24,7 +24,7 @@ Our algorithm achieves competitive accuracy across multiple evaluation metrics:
 - **Recall**: 0.52 ± 0.32
 - **F1 Score**: 0.51 ± 0.29
 
-![Segmentation Accuracy Analysis](images/accuracy_metrics.png)
+![Segmentation Accuracy Analysis](image/accuracy_metrics.png)
 
 *Figure 1: Segmentation accuracy metrics showing mean performance and standard deviation across test sequences*
 
@@ -36,7 +36,7 @@ The algorithm demonstrates exceptional cost-effectiveness with nearly 100% autom
 - **ROI**: 100.0% cost reduction
 - **Processing Speed**: 3498x faster than manual annotation
 
-![Cost Analysis](images/cost_analysis.png)
+![Cost Analysis](image/cost_analysis.png)
 
 *Figure 2: Cost analysis showing dramatic savings compared to manual annotation*
 
@@ -48,7 +48,7 @@ The algorithm achieves consistent high-speed processing across different video s
 - **Processing Rate**: Varies from 3000x to 4000x depending on sequence complexity
 - **Accuracy vs Speed Trade-off**: Shows manageable degradation at highest speeds
 
-![Sequence Performance](images/sequence_performance.png)
+![Sequence Performance](image/sequence_performance.png)
 
 *Figure 3: Sequence-wise performance analysis showing speedup factors and accuracy trade-offs*
 
@@ -60,27 +60,9 @@ Comprehensive comparison between manual and automated approaches:
 - **Automated Processing**: ~0.5 seconds for the same sequences
 - **Speedup Factor**: 3500x average improvement
 
-![Time Comparison](images/time_comparison.png)
+![Time Comparison](image/time_comparison.png)
 
 *Figure 4: Direct time comparison showing dramatic efficiency improvements*
-
-### User Study Results
-
-Evaluation across different user experience levels shows consistent benefits:
-
-#### By Experience Level:
-- **Novice Users**: 55-65 minutes → Automated processing
-- **Intermediate Users**: 35-38 minutes → Automated processing  
-- **Expert Users**: 25-27 minutes → Automated processing
-
-#### User Satisfaction:
-- **Novice**: 8.5/10 average satisfaction
-- **Intermediate**: 9.5/10 average satisfaction
-- **Expert**: 9.8/10 average satisfaction
-
-![User Study Results](images/user_study_results.png)
-
-*Figure 5: User study results showing time savings and satisfaction across experience levels*
 
 ## Installation and Setup
 

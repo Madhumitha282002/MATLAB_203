@@ -69,13 +69,13 @@ A full-featured evaluation framework providing:
 
 Designed for direct use within MATLAB’s Video Labeler:
 
-- Easy installation via drop-in `.m` class file
-- Intuitive workflow:
-  1. Draw an initial object annotation
-  2. Run the automation algorithm
-  3. Review and refine results
-- Integrated timing and accuracy reporting
-- Configurable parameters for various use cases and data conditions
+- Clone this repo and run the VideoLabelerIntegration.m file
+- Once done, use these following commands in the command window
+  1. addpath(pwd)
+  2. savepath
+  3. videoLabeler
+- This will open video labeler software and upload videos to draw box for one frame (The label should be from the following list - (car, bus, person, road))
+- The select algorithm should contain 'AdvancedVideoSegmentationAlgorithm' in its dropbox, click on automate.
 
 ---
 
